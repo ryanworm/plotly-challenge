@@ -5,6 +5,10 @@ information as well as the sample cultures and volume of bacterium found. Data w
 using HTML and JavaScript. 
 
 
+![cultures](/static/pictures/bacteria_cultures.PNG)
+
+![samples](/static/pictures/bacteria_sampeles.PNG)
+
 
 * Tools Used:
     * JavaScript
