@@ -7,7 +7,7 @@ using HTML and JavaScript.
 
 ![cultures](/static/pictures/bacteria_cultures.PNG)
 
-![samples](/static/pictures/bacteria_sampeles.PNG)
+![samples](/static/pictures/bacteria_samples.PNG)
 
 
 * Tools Used:
